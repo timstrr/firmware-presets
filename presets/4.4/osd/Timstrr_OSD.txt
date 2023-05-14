@@ -1,0 +1,15 @@
+#$ TITLE: Timstrr racing OSD
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: OSD
+#$ STATUS: OFFICIAL
+#$ KEYWORDS: racing, OSD
+#$ AUTHOR: Timstrr
+#$ DESCRIPTION: OSD setup for racing drones that Timstrr uses
+
+set osd_tim1 = 2577
+set osd_link_quality_pos = 2456
+set osd_tim_1_pos = 2477
+set osd_flymode_pos = 2489
+set osd_craft_name_pos = 2048
+set osd_display_name_pos = 2069
+set osd_avg_cell_voltage_pos = 2465
